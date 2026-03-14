@@ -1,6 +1,6 @@
 # Kundan Ghosh
 
-**`Digital Craftsman (Data Scientist / ML Engineer / LLM Researcher)`**
+**`Digital Craftsman`**
 
 <p style="max-width: 600px; margin: auto; font-size: 16px;">
 I’m passionate about data science & machine learning, shaping my own version of the intelligent digital world—one model at a time. My journey flows through mathematics, data science, machine learning, deep learning, NLP, and LLMs.
